@@ -243,9 +243,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 - GitHub: [@ttd11204](https://github.com/ttd11204)
 - Email: datttse183987@fpt.edu.vn
 
-
 **Nguyen Ha Linh**
-- GitHub: [@halinhtvn3a](hhttps://github.com/halinhtvn3a)
+- GitHub: [@halinhtvn3a](https://github.com/halinhtvn3a)
 - Email: linhnhse184014@fpt.edu.vn
 
 Project Link: [Flight Management System](https://github.com/dunghuynh-teaching/prj301-se1867-05)

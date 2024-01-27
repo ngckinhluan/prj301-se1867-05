@@ -144,6 +144,47 @@ This project serves as an assignment for the PRJ301 - Programming with Java Web 
 
 
 ## Wireframe and Screenshots of the system
+- This is our first page
+
+<img src="./images/Website.png" alt="Logo" width="100%" height="100%">
+
+- When clicking in Sign Up button, this page will pop-up prompting users to create their accounts.
+
+<img src="./images/Login 12.png" alt="Logo" width="100%" height="100%">
+
+
+- When clicking in Sign In button, this page will pop-up prompting users to log in the website with their existing accounts.
+
+<img src="./images/Signin.png" alt="Logo" width="100%" height="100%">
+
+
+- Our introduction page
+
+<img src="./images/2024, 0_00_02 GMT+7.png" alt="Logo" width="100%" height="100%">
+
+
+- Our offers/booking page
+
+<img src="./images/Section 49.png" alt="Logo" width="100%" height="100%">
+
+
+- This is our UI for users to book and reserver seats.
+
+<img src="./images/Tripma (4).png" alt="Logo" width="100%" height="100%">
+
+
+- This page is used to get users information when they booked seats
+
+<img src="./images/Tripma (5).png" alt="Logo" width="100%" height="100%">
+
+
+- Contributors
+
+<img src="./images/2024, 0_53_44 GMT+7.png" alt="Logo" width="100%" height="100%">
+
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

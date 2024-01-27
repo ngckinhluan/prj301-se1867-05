@@ -144,7 +144,7 @@ This project serves as an assignment for the PRJ301 - Programming with Java Web 
 
 
 ## Wireframe and Screenshots of the system
-- This is our first page
+- This is our first page.
 
 <img src="./images/Website.png" alt="Logo" width="100%" height="100%">
 
@@ -158,12 +158,12 @@ This project serves as an assignment for the PRJ301 - Programming with Java Web 
 <img src="./images/Signin.png" alt="Logo" width="100%" height="100%">
 
 
-- Our introduction page
+- Our introduction page.
 
 <img src="./images/2024, 0_00_02 GMT+7.png" alt="Logo" width="100%" height="100%">
 
 
-- Our offers/booking page
+- Our offers/booking page.
 
 <img src="./images/Section 49.png" alt="Logo" width="100%" height="100%">
 
@@ -173,7 +173,7 @@ This project serves as an assignment for the PRJ301 - Programming with Java Web 
 <img src="./images/Tripma (4).png" alt="Logo" width="100%" height="100%">
 
 
-- This page is used to get users information when they booked seats
+- This page is used to get users information when they booked seats.
 
 <img src="./images/Tripma (5).png" alt="Logo" width="100%" height="100%">
 
@@ -182,6 +182,12 @@ This project serves as an assignment for the PRJ301 - Programming with Java Web 
 
 <img src="./images/2024, 0_53_44 GMT+7.png" alt="Logo" width="100%" height="100%">
 
+ ### Built With
+
+* [![HTML][HTML.com]][HTML-url] 
+* [![CSS][CSS.com]][CSS-url] 
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url] 
+* [![Figma][Figma.com]][Figma-url] 
 
 
 
@@ -308,12 +314,6 @@ I would like to express my greatest gratitude to the following resources from th
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 * [Figma](https://www.figma.com/)
-
-Last but not least, I want to express my sincere gratitude to my teacher, **HoangNT2**, also known as **Nguyễn Thế Hoàng**. He has been my favorite teacher since my time at FPT University.
-
-His enthusiasm and dynamic teaching methods have played an indispensable role in motivating students to become passionate about what they are doing. Despite not having met him in person, I've gained a wealth of valuable knowledge through his YouTube channel.
-
-Be sure to check out his insightful content on [Youtube](https://www.youtube.com/@giaolang)!
 
 **HAPPY CODE | HAPPY MONEY | HAPPY LIFE**
 

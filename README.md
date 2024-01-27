@@ -86,7 +86,7 @@ This project serves as an assignment for the PRJ301 - Programming with Java Web 
 - Project name: Fire Airlines
 ## Purpose
 
-Fire Airlines allows customers to book flights, check-in, select seats, track reservations, and manage travel plans. The platform provides information on schedules, fares, in-flight services, and airline programs to assist travelers with trip planning and ticketing.
+- Fire Airlines allows customers to book flights, check-in, select seats, track reservations, and manage travel plans. The platform provides information on schedules, fares, in-flight services, and airline programs to assist travelers with trip planning and ticketing.
 
 ## Objects
 
@@ -95,7 +95,7 @@ Fire Airlines allows customers to book flights, check-in, select seats, track re
 
 ## Features
 
-### User
+### About User
 
 #### Login
 
@@ -121,7 +121,7 @@ Fire Airlines allows customers to book flights, check-in, select seats, track re
 - Click "detail" to show details of each invoice, such as flight, ticket, and seat information.
 - Confirm purchase or delete saved invoices.
 
-### Admin
+### About Admin
 
 #### Manage Flights
 
@@ -138,95 +138,6 @@ Fire Airlines allows customers to book flights, check-in, select seats, track re
 
 - View invoices and remove invoices.
 - Calculate revenue, show total passengers, revenue, and flights in a chosen specific period of time.
-
-## Requirement
-
-### Project name: Fire Airlines
-
-### Purpose:
-
-Fire Airlines allow customers to book flights, check-in, select seats, track reservations, and manage travel plans. They provide information on schedules, fares, in-flight services, and airline programs to assist travelers with trip planning and ticketing.
-
-### Objects:
-
-- Users can manage and purchase tickets for passengers.
-- Admin oversees all the system of users, flights,…
-  
-### Features:
-
-#### User:
-
-- Login:
-  - Sign up for a new account.
-  - Sign in as a user (if login as admin account, going to admin’s manage page.)
-- Account:
-  - View and edit user account information.
-  - Change user account password.
-- Booking Flight:
-  - Search all flights having the same departure point, landing point, and departure date.
-  - Select one flight for booking (login necessary)
-  - Fill in passenger ticket information, select seat for each passenger (required) and choose luggage weight (optional)
-  - Fill in ticket information for the next passenger after clicking “Save”.
-  - Confirm buying ticket(s) by clicking “Purchase or “Add to cart” without purchase
-- Booking history:
-  - View the buying history including general invoice information and ticket total price.
-  - Click “detail” to show details of each invoice such as their flight, ticket, and seat information.
-  - Confirm purchase for or delete save invoices
-
-#### Admin:
-
-- Manage flights:
-  - View flights.
-  - Filter flights by airlines, departure points or landing points.
-  - Add, edit, remove flights.
-- Manage Users:
-  - View users.
-  - Edit, remove users.
-- Manage invoices:
-  - View invoices, remove invoices.
-  - Calculate revenue, show total passengers, revenue, flights in a chosen specific period of time.
-
-#### Login
-
-- Sign up for a new account.
-- Sign in as a user (if logged in as an admin account, redirected to the admin's management page).
-
-#### Account
-
-- View and edit user account information.
-- Change the user account password.
-
-#### Booking Flight
-
-- Search all flights with the same departure point, landing point, and departure date.
-- Select a flight for booking (login necessary).
-- Fill in passenger ticket information, select seats for each passenger (required), and choose luggage weight (optional).
-- Fill in ticket information for the next passenger after clicking "Save."
-- Confirm buying ticket(s) by clicking "Purchase" or "Add to cart" without purchase.
-
-#### Booking History
-
-- View the purchase history, including general invoice information and the total ticket price.
-- Click "detail" to show details of each invoice, such as flight, ticket, and seat information.
-- Confirm purchase or delete saved invoices.
-
-### Admin
-
-#### Manage Flights
-
-- View flights.
-- Filter flights by airlines, departure points, or landing points.
-- Add, edit, or remove flights.
-
-#### Manage Users
-
-- View users.
-
-#### Manage Invoices
-
-- View invoices and remove invoices.
-- Calculate revenue, show total passengers, revenue, and flights in a chosen specific period of time.
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -419,7 +330,7 @@ Be sure to check out his insightful content on [Youtube](https://www.youtube.com
 [CSS.com]:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]:https://www.w3schools.com/Css/
 
-[Bootstrap.com](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-[Bootstrap-url]:
+[Bootstrap.com]:(https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+[Bootstrap-url]:https://getbootstrap.com/
 
 

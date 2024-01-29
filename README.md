@@ -20,6 +20,11 @@
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![FPT][FPT-shield]][FPT-url]
+![Static Badge](https://img.shields.io/badge/Fire-Airline-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Dung%20Huynh-Teaching-dark%2520green?style=for-the-badge)
+
+
+
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 

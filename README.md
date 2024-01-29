@@ -194,6 +194,12 @@ This project serves as an assignment for the PRJ301 - Programming with Java Web 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Usage
+- Below is the demonstration  the functionality of our booking website.
+
+<img src="./gif/Animation.gif" alt="Logo" width="100%" height="100%">
+
+
 
 
 <!-- ### Built With

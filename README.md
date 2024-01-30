@@ -45,7 +45,7 @@
     <a href="https://github.com/dunghuynh-teaching/prj301-se1867-05.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/dunghuynh-teaching/prj301-se1867-05/">View Demo
+    <a href="#usage">View Demo
     ·
     <a href="https://github.com/dunghuynh-teaching/prj301-se1867-05/issues">Report Bug</a>
     ·

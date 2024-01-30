@@ -1,4 +1,4 @@
-k<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -45,7 +45,7 @@ k<!-- Improved compatibility of back to top link: See: https://github.com/othnei
     <a href="https://github.com/dunghuynh-teaching/prj301-se1867-05.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a name="usage">View Demo</a>
+    <a href="https://github.com/dunghuynh-teaching/prj301-se1867-05/">View Demo
     ·
     <a href="https://github.com/dunghuynh-teaching/prj301-se1867-05/issues">Report Bug</a>
     ·

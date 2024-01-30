@@ -202,7 +202,7 @@ This project serves as an assignment for the PRJ301 - Programming with Java Web 
 ## Usage
 - Below is the demonstration  the functionality of our booking website.
 
-![Demo](./gif/Animation.gif)
+<img src="./gif/Animation.gif" width="100%" height="100%">
 
 
 

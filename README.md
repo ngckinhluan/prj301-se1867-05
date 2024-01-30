@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+k<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -34,7 +34,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/TranLuan2907/flight-management-system">
-    <img src="./images/logo.jpg" alt="Logo" width="300" height="120">
+    <img src="./images/logo.jpg" alt="Logo" width="100%" height="100%">
   </a>
 
 <h3 align="center">Flight Management System</h3>
@@ -45,7 +45,7 @@
     <a href="https://github.com/dunghuynh-teaching/prj301-se1867-05.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/dunghuynh-teaching/prj301-se1867-05.git">View Demo</a>
+    <a name="usage">View Demo</a>
     ·
     <a href="https://github.com/dunghuynh-teaching/prj301-se1867-05/issues">Report Bug</a>
     ·
@@ -202,8 +202,7 @@ This project serves as an assignment for the PRJ301 - Programming with Java Web 
 ## Usage
 - Below is the demonstration  the functionality of our booking website.
 
-<img src="./gif/Animation.gif" alt="Logo" width="100%" height="100%">
-
+![Demo](./gif/Animation.gif)
 
 
 
@@ -383,5 +382,6 @@ I would like to express my greatest gratitude to the following resources from th
 
 [Bootstrap.com]:(https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 [Bootstrap-url]:https://getbootstrap.com/
+
 
 

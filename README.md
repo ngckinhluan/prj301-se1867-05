@@ -1,5 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
 <a name="readme-top"></a>
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -7,8 +9,6 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -18,17 +18,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![FPT][FPT-shield]][FPT-url]
 ![Static Badge](https://img.shields.io/badge/Fire-Airline-red?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Dung%20Huynh-Teaching-dark%2520green?style=for-the-badge)
 
-
-
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -37,7 +33,7 @@
     <img src="./images/logo.jpg" alt="Logo" width="100%" height="100%">
   </a>
 
-<h3 align="center">Flight Management System</h3> 
+<h3 align="center">Flight Management System</h3>
 
   <p align="center">
   A comprehensive flight management system designed to efficiently handle flight schedules, customer reservations, and bookings.
@@ -52,8 +48,6 @@
     <a href="https://github.com/dunghuynh-teaching/prj301-se1867-05/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -76,19 +70,18 @@
 </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 This project serves as an assignment for the PRJ301 - Programming with Java Web at FPT University. Students are tasked with applying the Java programming knowledge acquired in the pre-requisite course, PRO192 (Programming OOP with Java) and apply them in conjunction with database knowledge gained from DBI202 (Introduction to Database). to develop a practical, real-life application.
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Requirement
+
 - Project name: Fire Airlines
+
 ## Purpose
 
 - Fire Airlines allows customers to book flights, check-in, select seats, track reservations, and manage travel plans. The platform provides information on schedules, fares, in-flight services, and airline programs to assist travelers with trip planning and ticketing.
@@ -144,76 +137,69 @@ This project serves as an assignment for the PRJ301 - Programming with Java Web 
 - View invoices and remove invoices.
 - Calculate revenue, show total passengers, revenue, and flights in a chosen specific period of time.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## Wireframe and Screenshots of the system
-- This is our first page.
+
+- Introduction page.
 
 <img src="./images/Website.png" alt="Logo" width="100%" height="100%">
 
-- When clicking in Sign Up button, this page will pop-up prompting users to create their accounts.
+- Login Page
 
 <img src="./images/Login 12.png" alt="Logo" width="100%" height="100%">
 
-
-- When clicking in Sign In button, this page will pop-up prompting users to log in the website with their existing accounts.
-
 <img src="./images/Signin.png" alt="Logo" width="100%" height="100%">
 
-
-- Our introduction page.
+- Home Page
 
 <img src="./images/2024, 0_00_02 GMT+7.png" alt="Logo" width="100%" height="100%">
 
+- Offers/Booking page.
 
-- Our offers/booking page.
-
-<img src="./images/Section 49.png" alt="Logo" width="100%" height="100%">
-
-
-- This is our UI for users to book and reserver seats.
-
+<img src="./images/offer.jpg" alt="Logo" width="100%" height="100%">
 <img src="./images/Tripma (4).png" alt="Logo" width="100%" height="100%">
-
-
-- This page is used to get users information when they booked seats.
-
 <img src="./images/Tripma (5).png" alt="Logo" width="100%" height="100%">
 
+- Admin screen
+ <img src="./images/admininfor.jpg"  width="100%" height="100%">
 
-- Contributors
+- User Page
+<img src="./images/adminmanage.jpg"  width="100%" height="100%">
 
-<img src="./images/2024, 0_53_44 GMT+7.png" alt="Logo" width="100%" height="100%">
+- Flight Page
+<img src="./images/adminmanage2.jpg"  width="100%" height="100%">
 
- ### Built With
+<img src="./images/adminmanage3.jpg" width="100%" height="100%">
 
-* [![HTML][HTML.com]][HTML-url] 
-* [![CSS][CSS.com]][CSS-url] 
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url] 
-* [![Figma][Figma.com]][Figma-url] 
+- Edit Page
+<img src="./images/editpage.jpg"  width="100%" height="100%">
 
+### Built With
 
-
+- [![HTML][HTML.com]][HTML-url]
+- [![CSS][CSS.com]][CSS-url]
+- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+- [![Figma][Figma.com]][Figma-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Database Design
+
+- Below is our screenshot of the database model.
+  <img src="./images/database.jpg" width="100%" height="100%">
+
 ## Usage
-- Below is the demonstration  the functionality of our booking website.
+
+- Below is the demonstration the functionality of our booking website.
 
 <img src="./gif/Animation.gif" width="100%" height="100%">
-
-
 
 <!-- ### Built With
 
 * [![Java][Java.com]][Java-url] -->
 
-
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-
 
 <!-- GETTING STARTED -->
 <!-- ## Getting Started
@@ -234,7 +220,7 @@ In the project, locate the 'FlightManagementSystem' class. This class serves as 
 
 <!-- ### Installation
 
-* Click [Here](https://www.oracle.com/java/technologies/downloads/) to download and install the JDK 
+* Click [Here](https://www.oracle.com/java/technologies/downloads/) to download and install the JDK
 
 * Click [Here](https://www.jetbrains.com/idea/download/?section=windows) to download and install Intellij IDEA
 
@@ -257,9 +243,10 @@ Below is a demonstration of the project, showcasing the implementation of data v
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-</p> --> 
+</p> -->
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -275,67 +262,66 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
+
 **Tran Ngoc Kinh Luan**
+
 - GitHub: [@ngckinhluan](https://github.com/ngckinhluan)
 - Email: luantnkse184059@fpt.edu.vn
 
 **Le Thanh Nhan**
+
 - GitHub: [@LeThanhNhan91](https://github.com/LeThanhNhan91)
 - Email: nhanltse183977@fpt.edu.vn
 
 **Tran Thanh Dat**
+
 - GitHub: [@ttd11204](https://github.com/ttd11204)
 - Email: datttse183987@fpt.edu.vn
 
 **Nguyen Ha Linh**
+
 - GitHub: [@halinhtvn3a](https://github.com/halinhtvn3a)
 - Email: linhnhse184014@fpt.edu.vn
 
 Project Link: [Flight Management System](https://github.com/dunghuynh-teaching/prj301-se1867-05)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
+
 I would like to express my greatest gratitude to the following resources from the internet that have been instrumental in the development of the project.
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-* [Figma](https://www.figma.com/)
+- [Choose an Open Source License](https://choosealicense.com)
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+- [Malven's Grid Cheatsheet](https://grid.malven.co/)
+- [Img Shields](https://shields.io)
+- [GitHub Pages](https://pages.github.com)
+- [Font Awesome](https://fontawesome.com)
+- [React Icons](https://react-icons.github.io/react-icons/search)
+- [Figma](https://www.figma.com/)
 
 **HAPPY CODE | HAPPY MONEY | HAPPY LIFE**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/badge/Contributor-4-dark%20green?style=for-the-badge
-
 [contributors-url]: https://github.com/TranLuan2907/flight-management-system/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
 [forks-url]: https://github.com/github_username/repo_name/network/members
@@ -365,23 +351,15 @@ I would like to express my greatest gratitude to the following resources from th
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
-
 [Java.com]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 [Java-url]: https://www.java.com/en/
-
-[FPT-url]:https://daihoc.fpt.edu.vn/
+[FPT-url]: https://daihoc.fpt.edu.vn/
 [FPT-shield]: https://img.shields.io/badge/FPT-Pass-dark%20green?style=for-the-badge
-[Figma.com]:https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
-[Figma-url]:https://www.figma.com/
-
-[HTML.com]:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[HTML-url]:https://www.learn-html.org/
-
-[CSS.com]:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-[CSS-url]:https://www.w3schools.com/Css/
-
-[Bootstrap.com]:(https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-[Bootstrap-url]:https://getbootstrap.com/
-
-
-
+[Figma.com]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
+[Figma-url]: https://www.figma.com/
+[HTML.com]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://www.learn-html.org/
+[CSS.com]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://www.w3schools.com/Css/
+[Bootstrap.com]: (https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+[Bootstrap-url]: https://getbootstrap.com/

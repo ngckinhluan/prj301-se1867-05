@@ -189,12 +189,6 @@ This project serves as an assignment for the PRJ301 - Programming with Java Web 
 - Below is our screenshot of the database model.
   <img src="./images/database.jpg" width="100%" height="100%">
 
-## Usage
-
-- Below is the demonstration the functionality of our booking website.
-
-<img src="./gif/Animation.gif" width="100%" height="100%">
-
 <!-- ### Built With
 
 * [![Java][Java.com]][Java-url] -->

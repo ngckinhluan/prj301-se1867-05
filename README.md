@@ -84,7 +84,7 @@ This project serves as an assignment for the PRJ301 - Programming with Java Web 
 
 ## Purpose
 
-- Fire Airlines allows customers to book flights, check-in, select seats, track reservations, and manage travel plans. The platform provides information on schedules, fares, in-flight services, and airline programs to assist travelers with trip planning and ticketing.
+- Fire Airlines allows customers to book flights, track reservations, and manage travel plans. The platform provides information on schedules, and airline programs to assist travelers with trip planning and ticketing.
 
 ## Objects
 
@@ -99,43 +99,52 @@ This project serves as an assignment for the PRJ301 - Programming with Java Web 
 
 - Sign up for a new account.
 - Sign in as a user (if logged in as an admin account, redirected to the admin's management page).
+- Forgot password function help send OTP code in user's mail and used that to recover password.
+- Remember me using cookies to store user's data (username, password) for next login.
 
 #### Account
 
 - View and edit user account information.
 - Change the user account password.
+- Log out.
 
 #### Booking Flight
 
-- Search all flights with the same departure point, landing point, and departure date.
+- Search all flights with the same departure point, landing point departure time and flight id.
 - Select a flight for booking (login necessary).
-- Fill in passenger ticket information, select seats for each passenger (required), and choose luggage weight (optional).
-- Fill in ticket information for the next passenger after clicking "Save."
-- Confirm buying ticket(s) by clicking "Purchase" or "Add to cart" without purchase.
+- Autofill in passenger ticket information.
+- When submited, the ticket information is sent to the booking history.
 
 #### Booking History
 
-- View the purchase history, including general invoice information and the total ticket price.
-- Click "detail" to show details of each invoice, such as flight, ticket, and seat information.
-- Confirm purchase or delete saved invoices.
+- View the information of tickets that users booked.
+- Cancel action in order to delete the tickets.
 
 ### About Admin
+
+#### Book Flights
+
+- Allow admins to book tickets and view booking history.
 
 #### Manage Flights
 
 - View flights.
-- Filter flights by airlines, departure points, or landing points.
+- Filter and Search flights by id, seats, airlines, departure points, or landing points, time.
 - Add, edit, or remove flights.
+- Show flight's entry.
+- Edit existed flights.
 
 #### Manage Users
 
-- View users.
-- Edit or remove users.
+- View users information (show number of entries).
+- Remove and ban users.
+- In edit function admins can delegate roles and update status (ban or unban).
+- Search users.
 
-#### Manage Invoices
+#### Manage Tickets
 
-- View invoices and remove invoices.
-- Calculate revenue, show total passengers, revenue, and flights in a chosen specific period of time.
+- View all of users's information tickets.
+- Edit and Delete tickets.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,37 +152,42 @@ This project serves as an assignment for the PRJ301 - Programming with Java Web 
 
 - Introduction page.
 
-<img src="./images/Website.png" alt="Logo" width="100%" height="100%">
+<img src="./images/intro_page.jpg" alt="Logo" width="100%" height="100%">
 
 - Login Page
 
-<img src="./images/Login 12.png" alt="Logo" width="100%" height="100%">
+<img src="./images/new_sign_up.jpg" alt="Logo" width="100%" height="100%">
 
-<img src="./images/Signin.png" alt="Logo" width="100%" height="100%">
+<img src="./images/new_log_in.jpg" alt="Logo" width="100%" height="100%">
 
 - Home Page
 
-<img src="./images/2024, 0_00_02 GMT+7.png" alt="Logo" width="100%" height="100%">
+<img src="./images/new_home_page.jpg" alt="Logo" width="100%" height="100%">
 
-- Offers/Booking page.
+- Book details.
+<img src="./images/book_detail.jpg" alt="Logo" width="100%" height="100%">
 
-<img src="./images/offer.jpg" alt="Logo" width="100%" height="100%">
-<img src="./images/Tripma (4).png" alt="Logo" width="100%" height="100%">
-<img src="./images/Tripma (5).png" alt="Logo" width="100%" height="100%">
+- Book lists.
+<img src="./images/booked_flight.jpg" alt="Logo" width="100%" height="100%">
 
-- Admin screen
- <img src="./images/admininfor.jpg"  width="100%" height="100%">
+- Book flight details.
+<img src="./images/book_flight_detail.jpg" alt="Logo" width="100%" height="100%">
 
-- User Page
-<img src="./images/adminmanage.jpg"  width="100%" height="100%">
+- Profile
+<img src="./images/profile.jpg" alt="Logo" width="100%" height="100%">
 
-- Flight Page
-<img src="./images/adminmanage2.jpg"  width="100%" height="100%">
+- Admin screen.
+ <img src="./images/admin.jpg" alt="Logo" width="100%" height="100%">
 
-<img src="./images/adminmanage3.jpg" width="100%" height="100%">
+- Admin manage user page.
+ <img src="./images/admin_manage.jpg" alt="Logo" width="100%" height="100%">
 
-- Edit Page
-<img src="./images/editpage.jpg"  width="100%" height="100%">
+- Admin manage flights page.
+ <img src="./images/admin_manage_2.jpg" alt="Logo" width="100%" height="100%">
+
+ - Forgot password
+ <img src="./images/forgot_password.jpg" alt="Logo" width="100%" height="100%">
+
 
 ### Built With
 
@@ -187,7 +201,7 @@ This project serves as an assignment for the PRJ301 - Programming with Java Web 
 ## Database Design
 
 - Below is our screenshot of the database model.
-  <img src="./images/database.jpg" width="100%" height="100%">
+  <img src="./images/db.jpg" width="100%" height="100%">
 
 <!-- ### Built With
 

@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 18, 2024, 2:05:27 PM
+    Author     : Lenovo P14s Gen 2
+*/
+
+.btn-des{
+    display: inline-block;
+    border: 2px solid #e83c38;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #e83c38;
+    width: 110px;
+    height: 40px;
+    font-weight: bold;
+}
+
+.btn-des:hover{
+    background-color: #fff;
+    color: #e83c38;
+    border: 2px solid #e83c38;
+}
+
+.grid-containner{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.grid-container > div{
+    padding: 20px 0;
+}
+.box h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.item1{
+    font-size: 20px;
+    margin: 5px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid rgb(216, 208, 208);
+    grid-column-start: 2;
+    grid-column-end: 4;
+}
+.item2{
+    font-size: 20px;
+    font-weight: bold;
+    grid-column-start: 5;
+    padding-top: 5px;
+}
